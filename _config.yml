@@ -1,20 +1,20 @@
-title: Titulo
+title: Victor Bertalan's Page
 profile_img: assets/img/profile.webp
 icon_img: assets/img/icon.webp
 
 name: "Victor Bertalan"
-job: "〈Your Job Here〉"
+job: "PhD Candidate at Polytechnique Montréal"
 
-phone_number: 012-345-6789
-address: City, Country
-email: email@example.com
-linkedin_username: linkedin
-github_username: github
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
-youtube_username: youtube
-blog_url: homepage-url
+phone_number: 438-938-6943
+address: Montréal, Canada
+email: vbertalan@gmail.com
+linkedin_username: https://www.linkedin.com/in/vbertalan/
+github_username: https://github.com/vbertalan/
+instagram_username: https://www.instagram.com/vbertalan/
+twitter_username: https://twitter.com/vbertalan/
+facebook_username: https://www.facebook.com/vbertalan/
+youtube_username: https://www.youtube.com/channel/UC_GsAwRQcjfyk8F7uK_eyNg/
+blog_url: https://vbertalan.github.io/
 
 exclude:
   - _posts/
