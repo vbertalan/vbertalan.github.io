@@ -2,21 +2,21 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Sao Paulo Justice Court
+    role: Functional Analyst
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Led development of a new e-Health and human resources internet plaform
+      - Responsible for requirements analysis and documentation for the systems
+    date: Dec. 2009 - Ongoing
+  - title: TOTVS
+    role: Media Analyst
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+      - Responsible for media management of a virtual training platform
+      - Enhanced internal pipelines to gather data from distant providers
+    date: Apr. 2009 - Dec. 2009
+  - title: IBM
+    role: BI Analyst
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Created SAP BW reports for accounting and financial statements
+      - Integrated the project for USGAAP and IFRS financial reports
+    date: Jul. 2007 - Dec. 2008
