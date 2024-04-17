@@ -4,8 +4,8 @@ icon: "/assets/img/flask.svg"
 contents:
   - title: Journal
     ref: 
-      - "[1] **M. Yankovich**, L. Hernández, M. Roveri, “[A symmetric encryption method with biometric authorization for constrained environments](https://scholar.google.com/),” *Cryptography*, vol. x, no. x, pp. xxx–xxx, 202x."
-      - "[2] **M. Yankovich**, F. Arute, G. Persiano, G. Segev, “[Authorized public-key search on iiot applications](https://scholar.google.com/),” *IEEE Transactions on Information Forensics and Security*, pp. xxx–xxx, 202x."
+      - "[1] **V. Bertalan**, E. Ruiz, “[Using attention methods to predict judicial outcomes](https://link.springer.com/article/10.1007/s10506-022-09342-7),” *Artificial Intelligence and Law*, vol. 32, pp. 87-115, 2024."   
   - title: Conference
     ref:
-      - "[3] I. Lebedev, **M. Yankovich**, L. Wang, G. Segev, “[Post-training of deep bidirectional transformers for language understanding](https://scholar.google.com/),” *in Proc. 99th Annu. Meeting Assoc. Comput. Linguistics*, pp. xxx–xxx, 202x."
+      - "[2] **V. Bertalan**, E. Ruiz, “[Using topic modeling to find main discussion topics in brazilian political websites](https://dl.acm.org/doi/10.1145/3323503.3360644),” *in WebMedia '19: Proceedings of the 25th Brazillian Symposium on Multimedia and the Web*, pp. 245–248, 2019."
+      - "[3] **V. Bertalan**, E. Ruiz, “[Using topic modeling to find main discussion topics in brazilian political websites](https://dl.acm.org/doi/10.1145/3323503.3360644),” *in WebMedia '19: Proceedings of the 25th Brazillian Symposium on Multimedia and the Web*, pp. 245–248, 2019."
