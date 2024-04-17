@@ -8,13 +8,13 @@ job: "PhD Candidate at Polytechnique Montréal"
 phone_number: 438-938-6943
 address: Montréal, Canada
 email: vbertalan@gmail.com
-linkedin_username: www.linkedin.com/in/vbertalan/
-github_username: github.com/vbertalan/
-instagram_username: www.instagram.com/vbertalan/
-twitter_username: twitter.com/vbertalan/
-facebook_username: www.facebook.com/vbertalan/
-youtube_username: www.youtube.com/channel/UC_GsAwRQcjfyk8F7uK_eyNg/
-blog_url: vbertalan.github.io/
+linkedin_username: vbertalan
+github_username: vbertalan
+instagram_username: vbertalan
+twitter_username: vbertalan
+facebook_username: vbertalan
+youtube_username: _GsAwRQcjfyk8F7uK_eyNg
+blog_url: vbertalan.github.io
 
 exclude:
   - _posts/
