@@ -2,7 +2,7 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Polytechnique Montréal, PhD in Computer Science
+  - title: Polytechnique Montréal, PhD in Computer Engineering
     description:
       - Design of a method to identify causal structures inside software build log lines
       - Development of models for parsing and summarizing log lines
