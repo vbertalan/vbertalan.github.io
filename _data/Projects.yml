@@ -7,15 +7,15 @@ contents:
       - Topic modeling framework to identify main topics in political websites
       - Designed to be adaptable for different languages and website structures
       - "Technology Used: LDA, Python"
-    ##image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
+    #image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
   - title: "Log Parser Using Transformers ([https://github.com/vbertalan/parser](https://github.com/vbertalan/parser))"
     description: 
       - Log variable parser using Transformers
       - Developed to separate static tokens from variables inside massive log files
       - "Technology Used: Machine learning, Natural Language Processing, Transformers, Python"
-    ##image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
+    #image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
   - title: "LineTracker ([https://github.com/vbertalan/LineTrackerAPI](https://github.com/vbertalan/LineTrackerAPI))" 
     description: 
       - Log summarization using Topic Modeling and Transformers
       - "Technology Used: Transformers, Python"
-    ##image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+    #image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
