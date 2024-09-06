@@ -2,20 +2,20 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "LDA for Politics ([https://github.com/vbertalan/politicslda](https://github.com/vbertalan/politicslda))"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+      - Topic modeling framework to identify main topics in political websites
+      - Designed to be adaptable for different languages and website structures
+      - "Technology Used: LDA, Python"
+    ##image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
+  - title: "Log Parser Using Transformers ([https://github.com/vbertalan/parser](https://github.com/vbertalan/parser))"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
+      - Log variable parser using Transformers
+      - Developed to separate static tokens from variables inside massive log files
+      - "Technology Used: Machine learning, Natural Language Processing, Transformers, Python"
+    ##image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
+  - title: "LineTracker ([https://github.com/vbertalan/LineTrackerAPI](https://github.com/vbertalan/LineTrackerAPI))" 
     description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - Log summarization using Topic Modeling and Transformers
+      - "Technology Used: Transformers, Python"
+    ##image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
